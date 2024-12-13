@@ -1,7 +1,12 @@
 // import logo from 'captcha.png'
-import react from 'react.svg'
+import reactLogo from './react.svg'
+import captchaLogo from './captcha.png'
+import githubLogo from './githubLogo.png'
 
 export {
    // logo , 
-    react
+    reactLogo , 
+    captchaLogo , 
+    githubLogo , 
+
 }
